@@ -1,0 +1,35 @@
+[
+  {
+    "input": "samples/targets/geometry.png",
+    "width": 768,
+    "height": 768,
+    "splats": 92160,
+    "live_splats_opacity_gt_0.1": 73334,
+    "psnr_db": 31.020971212763158,
+    "model_ms_median": 11.663792133331299,
+    "model_ms_p10": 11.645635414123536,
+    "model_ms_p90": 12.036742115020752
+  },
+  {
+    "input": "samples/targets/gradient.png",
+    "width": 768,
+    "height": 768,
+    "splats": 92160,
+    "live_splats_opacity_gt_0.1": 73728,
+    "psnr_db": 33.681673531512914,
+    "model_ms_median": 11.682079792022705,
+    "model_ms_p10": 11.656063842773438,
+    "model_ms_p90": 11.840243053436279
+  },
+  {
+    "input": "samples/targets/poster.png",
+    "width": 768,
+    "height": 768,
+    "splats": 92160,
+    "live_splats_opacity_gt_0.1": 73535,
+    "psnr_db": 28.441355220552378,
+    "model_ms_median": 11.773279666900635,
+    "model_ms_p10": 11.72745590209961,
+    "model_ms_p90": 11.968736171722412
+  }
+]

@@ -1,0 +1,5 @@
+Copyright 2026 Wolfe (bigwolfeman)
+
+This release contains the author's 2D Gaussian encoder code and trained checkpoint.
+The Apache-2.0 license covers the source code, not the checkpoint.
+The original synthetic sample images have a separate CC BY 4.0 license under samples/.
